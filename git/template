@@ -1,0 +1,28 @@
+# Format: Thing(file): info
+# Example: Fix(login): handle null error on submit
+#
+# Common Things:
+# - Feat       → New feature
+# - Fix        → Bug fix
+# - Refactor   → Code refactor without changing behavior
+# - Style      → Formatting, missing semicolons, etc.
+# - Docs       → Documentation only
+# - Test       → Adding or fixing tests
+# - Chore      → Maintenance tasks (build, CI, deps)
+# - Perf       → Performance improvement
+# - Revert     → Revert previous commit
+
+# Thing(file): short summary (max 50-60 chars)
+
+# Optional longer explanation:
+#
+# - What and why
+# - Context for reviewers
+# - Links to issues or PRs
+
+# Examples:
+# Feat(auth): add JWT token refresh
+# Fix(ui/button): hover state now uses correct color
+# Refactor(utils): simplify date parsing logic
+# Docs(readme): add setup instructions for Windows
+

@@ -1,0 +1,8 @@
+[user]
+	email = fabio.brady@gmail.com
+	name = fabio.brady@gmail.com
+[commit]
+	 template = ~/.config/git/template
+[core]
+	excludesfile = /Users/Fabio.Brady/.gitignore_global
+
