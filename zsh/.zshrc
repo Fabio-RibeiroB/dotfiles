@@ -51,4 +51,7 @@ export GIT_CONFIG_GLOBAL=$HOME/.config/git/config
 # eza
 alias e='eza -a'
 
+# Make nvim default editor
+export EDITOR="nvim"
+export VISUAL="nvim"
 
