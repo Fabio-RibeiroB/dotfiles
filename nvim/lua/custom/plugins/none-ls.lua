@@ -19,7 +19,7 @@ return {
     }
 
     local sources = {
-      formatting.prettier.with { filetypes = { 'json', 'markdown', 'yaml' } },
+      formatting.prettier.with { filetypes = { 'json', 'markdown'} },
       require('none-ls.formatting.ruff'),
       require('none-ls.formatting.ruff_format'),
       require('none-ls.diagnostics.ruff'),
