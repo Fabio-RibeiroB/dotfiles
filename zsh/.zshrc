@@ -55,3 +55,5 @@ alias e='eza -a'
 export EDITOR="nvim"
 export VISUAL="nvim"
 
+# For aerospace to find config 
+export XDG_CONFIG_HOME="$HOME/.config"
